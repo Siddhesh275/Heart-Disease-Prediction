@@ -15,7 +15,7 @@ Machine Learning algorithms used:
 4. Decision Tree (Scikit-learn)
 5. Random Forest (Scikit-learn)
 
-Accuracy achieved: 95% (Logistic Regression)
+Accuracy achieved: 81.11% (Logistic Regression)
 
 Dataset used: https://www.kaggle.com/ronitf/heart-disease-uci
 
